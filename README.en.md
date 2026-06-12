@@ -1,9 +1,5 @@
 # 🚀 Indie Affiliate Site Playbook
 
-**Language / 语言:** [English](README.md) | [简体中文](README.zh-CN.md)
-
----
-
 > **From idea to revenue in 90 days.** A complete, validation-first framework for solo indie builders to launch profitable affiliate niche sites using AI-native workflows.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
